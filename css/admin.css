@@ -1,0 +1,175 @@
+body{
+    margin:50px 0px 0px 0px; 
+    font-family: Verdana, Arial, sans-serif; 
+    padding:0; 
+    background-color: lightgrey;
+}
+
+#logo {
+    width: 450px;
+    height: 125px;
+}
+
+header {
+    margin: 0px -100px 0px -100px;    
+    text-align: center;
+    width: available;	
+    background-color: white; 
+}
+
+
+header img {
+    margin: 20px 0px 20px 0px;
+}
+
+footer {
+    color:#009900; 
+    font-size:90%; 
+    text-align:center
+}
+footer a {
+    text-decoration: none;
+    color:#009900; 
+}
+
+#login{
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 80px;
+    width: 600px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 3px 3px 3px black;
+    background-color: rgb(234, 232, 232);
+}
+
+#menu{
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 80px;
+    width: 800px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 3px 3px 3px black;
+    background-color: rgb(234, 232, 232);
+}
+
+#menu2{
+margin-left: auto;
+margin-right: auto;
+    width: 600px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 3px 3px 3px black;
+    background-color: rgb(234, 232, 232);
+    font-size: 0.75em;
+}
+
+#texto{
+    padding: 5px 0px 5px 0px;
+    font-family: Verdana, Arial, sans-serif;
+    text-align: center;
+    color:#dbdbdb;
+    background-color:#696969;
+    font-size: 90%;
+}
+
+
+nav ul{
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+nav ul li{
+    float: left;
+}
+
+.fundo{
+    background-color:#696969;
+    padding: 15px;
+}
+nav ul li a, nav ul li a:hover {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 1.3em;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+h4 {
+    font-family: Verdana, Arial, sans-serif; 
+    color: darkred; 
+    text-align: center;
+    margin: 10px 0px 10px 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+label {
+    font-family: Verdana, Arial, sans-serif; 
+    color: rgb(60, 59, 59);
+}
+
+#usuario, #senha{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 300px;
+}
+
+#senha{
+    margin-left: 8px;
+}
+
+button{
+    font-family: Verdana, Arial, sans-serif; 
+    margin-top: 30px;
+    width: 100%;
+    background-color: #009900;
+    color: white;
+    font-size: 1.1em;
+    border: 0px;
+    border-radius: 0px 0px 5px 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#textoprincipal{
+    text-align: center;
+    font-family: Verdana, Arial, sans-serif; 
+    color: rgb(239, 236, 236); 
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#textoprincipal2{
+    text-align: end;
+    font-family: Verdana, Arial, sans-serif; 
+    color: rgb(239, 236, 236); 
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#sessao{
+    color: white;
+    font-family: Verdana, Arial, sans-serif; 
+    font-size: large;
+    background-color:  #009900;
+    text-align: center;
+    padding: 5px;
+}
+
+#sessaoErro{
+    color: white;
+    font-family: Verdana, Arial, sans-serif; 
+    font-size: large;
+    background-color:  #991900;
+    text-align: center;
+    padding: 5px;
+}

@@ -1,0 +1,7 @@
+1. Parar IIS
+2. Abrir Xampp-Control e dar Start no Apache
+3. Fazer download do arquivo ZIP da Aula 28
+4. Descompactar arquivo na pasta xampp\htdocs\wikisports 
+5. Abrir mySQl Workbench e dar Start no Servidor
+6. Executar script de criação do BD e tabelas
+7. Abrir admin.PHP e principal.PHP no Visual Code (ou outra IDE)
